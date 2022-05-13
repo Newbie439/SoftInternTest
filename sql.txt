@@ -1,0 +1,8 @@
+create database formlienhe;
+
+create table nguoidung(
+	Name varchar(50),
+	Email varchar(50),
+	Phone int,
+	Message varchar(1000)
+)
